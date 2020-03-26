@@ -1,0 +1,2 @@
+# anonymous-linechatbot
+LINEで匿名掲示板のようなチャットができるサービス
